@@ -1,0 +1,4 @@
+export const ADD_DATA = 'ADD_DATA'
+export const RESET_STATE = 'RESET_STATE'
+export const SET_PROCESSING_FLAG = 'SET_PROCESSING_FLAG'
+export const ADD_ERROR_MESSAGE = 'ADD_ERROR_MESSAGE'

@@ -1,0 +1,13 @@
+@mixin reset-button-styles() {
+  padding: 0;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+
+  &:hover,
+  &:focus,
+  &:active {
+    outline: none;
+    box-shadow: none;
+  }
+}
